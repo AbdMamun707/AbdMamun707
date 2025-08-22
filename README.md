@@ -9,3 +9,11 @@ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,github,vscode,sublime,php,&perline=12" />
 </p>
+
+## About Me
+
+- 🌍 **Location:** Dhaka, Bangladesh
+- 💼 **Profession:** Data Analyst
+- 👨‍💻 **Current Focus:** Python, Power BI, mySQL
+- 🧠 **Learning:** Data Analysis, Data Science
+- 💬 **Ask me about:** Software Engineering, ML
